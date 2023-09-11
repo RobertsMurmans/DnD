@@ -10,7 +10,7 @@ function startup(){
 
     if(!File.Exists(path)){
         
-        var seed = 0;
+        int seed = 0;
         return true;
 
     }
